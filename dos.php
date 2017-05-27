@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<body bgcolor="#848484">
+<body bgcolor="#848484" link="red" alink="red" vlink="red">
 
 <center><b>Ataque DoS</b><br>
 <b>========</b>
@@ -46,6 +46,8 @@
 
 	atack_dos();
 	?>
+
+<div align="center"><a href="https://github.com/ernestosequeira/DoS/">Github</a></div>
 
 </body>
 </html>
